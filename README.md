@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hey, I'm Het Kalriya 👋</h1>
   <p>🎓 AI & ML Student | 💻 MERN Developer | 🧠 ML Enthusiast | 🎨 UI/UX Designer</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=450&lines=Crafting+meaningful+UI/UX+🧑‍🎨;Passionate+about+AI+%26+Web+Development;Learning+something+new+every+day+🔥" alt="Typing SVG" />
+ 
 </div>
 
 ---
