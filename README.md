@@ -1,24 +1,24 @@
 <!-- Header Section -->
 <div align="center">
-  <h1>Hey, I'm Het Kalriya 👋</h1>
-  <p>🎓 AI & ML Student | 💻 MERN Developer | 🧠 ML Enthusiast | 🎨 UI/UX Designer</p>
+  <h1>Hey, I'm Het Kalriya </h1>
+  <p> AI & ML Student |  MERN Developer |  AI Products |  AI Engineer</p>
  
 </div>
 
 ---
 
-## 📌 About Me
+##  About Me
 
-- 👨‍🎓 B.Tech student majoring in **Artificial Intelligence & Machine Learning**
-- 🚀 Passionate about blending **design and code** to build impactful digital products
-- 💼 Actively building full-stack apps using the **MERN stack**
-- 🧠 Exploring **Machine Learning**, **AI tools**, and real-world use cases
-- 🌐 Portfolio: [https://hetkalriya.vercel.app/](https://hetkalriya.vercel.app/)
-- 📬 Reach me at: **kalriyahet@gmail.com**
+-  B.Tech student majoring in **Artificial Intelligence & Machine Learning**
+-  Passionate about blending **design and code** to build impactful digital products
+-  Actively building full-stack apps using the **MERN stack**
+-  Exploring **Machine Learning**, **AI tools**, and real-world use cases
+-  Portfolio: [https://hetkalriya.vercel.app/](https://hetkalriya.vercel.app/)
+-  Reach me at: **kalriyahet@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | ⭐ Project | 🔍 Description | 🧰 Tech Stack |
 |----------|----------------|--------------|
@@ -45,7 +45,7 @@
 
 
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="mailto:kalriyahet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
