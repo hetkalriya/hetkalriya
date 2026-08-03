@@ -34,11 +34,11 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** at **Sanjay 
 
 Currently focused on:
 
-- 🤖 Generative AI
-- 🧠 Large Language Models (LLMs)
-- 🔄 Multi-Agent Systems
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🌐 AI-powered Full-Stack Applications
+-  Generative AI
+-  Large Language Models (LLMs)
+-  Multi-Agent Systems
+-  Retrieval-Augmented Generation (RAG)
+-  AI-powered Full-Stack Applications
 
 I enjoy turning AI ideas into scalable products with modern frontend experiences and robust backend architectures.
 
@@ -100,7 +100,7 @@ I enjoy turning AI ideas into scalable products with modern frontend experiences
 
 # 🌟 Featured Projects
 
-## 🚀 NxtAI — Multi-Model AI Platform
+##  NxtAI — Multi-Model AI Platform
 
 > Production-ready AI platform powered by Gemini, Groq, and Cohere.
 
