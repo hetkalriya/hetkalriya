@@ -100,7 +100,7 @@ I enjoy turning AI ideas into scalable products with modern frontend experiences
 
 # 🌟 Featured Projects
 
-##  NxtAI — Multi-Model AI Platform
+##  🤖 NxtAI — Multi-Model AI Platform
 
 > Production-ready AI platform powered by Gemini, Groq, and Cohere.
 
