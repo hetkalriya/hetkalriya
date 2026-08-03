@@ -14,7 +14,7 @@ Building intelligent AI products powered by <b>LLMs</b>, <b>Multi-Agent Workflow
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://www.linkedin.com/in/hetkalriya">
+<a href="https://www.linkedin.com/in/het-kalriya">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
